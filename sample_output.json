@@ -1,0 +1,67 @@
+[
+  {
+    "source": "G2",
+    "title": "Excellent CRM solution for enterprise teams",
+    "description": "Salesforce has been a game-changer for our sales team. The automation features save us hours every week, and the reporting capabilities are outstanding. The mobile app works great for our field sales reps.",
+    "review_date": "2023-03-15",
+    "reviewer_name": "John Smith",
+    "rating": "4.5"
+  },
+  {
+    "source": "G2",
+    "title": "Powerful but complex platform",
+    "description": "Salesforce is incredibly powerful and can handle almost any requirement. However, the learning curve is steep and implementation requires significant time investment. Once configured properly, it's excellent.",
+    "review_date": "2023-04-22",
+    "reviewer_name": "Sarah Johnson",
+    "rating": "4.0"
+  },
+  {
+    "source": "Capterra",
+    "title": "Best CRM we've used",
+    "description": "We switched to Salesforce from a smaller CRM and haven't looked back. The integration capabilities are fantastic, and customer support has been responsive. Highly recommend for growing businesses.",
+    "review_date": "2023-05-10",
+    "reviewer_name": "Michael Chen",
+    "rating": "5.0"
+  },
+  {
+    "source": "Capterra",
+    "title": "Great features, expensive pricing",
+    "description": "Salesforce offers everything we need, but the pricing can be prohibitive for smaller teams. The features are top-notch, especially the analytics and workflow automation. Worth it if budget allows.",
+    "review_date": "2023-06-05",
+    "reviewer_name": "Emily Rodriguez",
+    "rating": "4.0"
+  },
+  {
+    "source": "TrustRadius",
+    "title": "Comprehensive solution with excellent support",
+    "description": "We've been using Salesforce for over 2 years now. The platform is robust, reliable, and constantly improving. The AppExchange ecosystem provides great additional functionality. Support team is knowledgeable and helpful.",
+    "review_date": "2023-07-18",
+    "reviewer_name": "David Williams",
+    "rating": "4.5"
+  },
+  {
+    "source": "G2",
+    "title": "Industry leader for a reason",
+    "description": "Salesforce continues to innovate and stay ahead of the competition. The AI features (Einstein) are impressive and actually useful. Implementation was smooth with their professional services team.",
+    "review_date": "2023-08-30",
+    "reviewer_name": "Lisa Anderson",
+    "rating": "4.5"
+  },
+  {
+    "source": "Capterra",
+    "title": "Solid platform with room for improvement",
+    "description": "Overall, Salesforce is a solid CRM platform. The core functionality works well, but some features feel outdated compared to newer competitors. Still, the reliability and ecosystem make it a safe choice.",
+    "review_date": "2023-09-12",
+    "reviewer_name": "Robert Taylor",
+    "rating": "3.5"
+  },
+  {
+    "source": "TrustRadius",
+    "title": "Scalable and reliable CRM",
+    "description": "We've scaled from 10 to 200 users on Salesforce without major issues. The platform handles our growth well, and the customization options allow us to adapt it to our specific needs. Great investment.",
+    "review_date": "2023-10-25",
+    "reviewer_name": "Jennifer Martinez",
+    "rating": "4.5"
+  }
+]
+
